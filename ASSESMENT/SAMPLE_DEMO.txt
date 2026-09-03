@@ -1,0 +1,13 @@
+AgriVision AI — Sample Demonstration
+
+Sample input:
+frontend/sample_leaf_early_blight.png
+
+Sample output (DEMO ONLY):
+Crop: Tomato
+Diagnosis: Early Blight
+Status: Disease detected
+Confidence: 96.34%
+
+Important:
+This sample output is for demonstrating the website interface only. It is not a claimed CNN evaluation result. After training the genuine CNN, the /predict endpoint and validation metrics should be used for final evidence.
